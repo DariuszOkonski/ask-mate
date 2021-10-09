@@ -1,4 +1,4 @@
-![image](img/main.jpg)
+![image](img/main.png)
 # AskMate
 
 ## Story
