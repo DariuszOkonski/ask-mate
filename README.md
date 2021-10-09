@@ -1,4 +1,7 @@
 ![image](img/main.png)
+
+Application is hosted on heroku, so it can take few seconds to start: https://ask-mate-ddc.herokuapp.com/
+
 # AskMate
 
 ## Story
