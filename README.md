@@ -1,4 +1,5 @@
-# AskMate (sprint 2)
+![image](img/main.jpg)
+# AskMate
 
 ## Story
 
