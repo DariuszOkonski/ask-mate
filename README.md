@@ -1,6 +1,6 @@
 ![image](img/main.png)
 # AskMate
-AskMate it is an BlogPost application which allow to add, remove, edit and display posts.
+AskMate it is a blog application which allow to add, remove, edit and display posts.
 
 ## Author
 - Dariusz Okonski
